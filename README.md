@@ -10,7 +10,7 @@
 
 ## 🌱 About Me
 ✨ Passionate about building clean, responsive and pretty web interfaces  
-🌿 Currently improving my React & Next.js skills  
+🌿 Currently improving my React skill 
 🍏 Focused on writing better structured and readable code  
 💡 Always learning and growing step by step  
 
@@ -41,10 +41,6 @@
       <br/><sub><b>React</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" alt="Next.js"/>
-      <br/><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
       <br/><sub><b>Git</b></sub>
     </td>
@@ -66,7 +62,7 @@
 ---
 
 ## 🌟 Goals for 2026
-🚀 Master React & Next.js fundamentals  
+🚀 Master React fundamentals  
 🍏 Build a complete portfolio project  
 🌱 Contribute to an open-source project  
 💼 Get my first Frontend Developer position  
